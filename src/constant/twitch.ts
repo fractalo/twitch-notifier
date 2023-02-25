@@ -1,0 +1,1 @@
+export const STATIC_BASE_URL = 'https://static-cdn.jtvnw.net';
